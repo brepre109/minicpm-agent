@@ -1,0 +1,1 @@
+{"description": "Tool-calling agent harness for the 1B MiniCPM5 model on local Ollama: 30+ tools, keyword routing, no deps", "topics": ["llm-agent", "ollama", "minicpm", "tool-calling", "local-llm", "python"], "homepage": ""}
