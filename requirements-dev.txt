@@ -1,0 +1,2 @@
+# The agent itself is stdlib-only; this is just for running the test suite.
+pytest>=7
